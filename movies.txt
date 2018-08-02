@@ -1,0 +1,7 @@
+Metropolis;1927;Fritz Lang;;8.3
+Star Wars;1977;George Lucas;Mark Hamill,Harrison Ford,Carrie Fisher,Alec Guinness,James Earl Jones;8.7
+Star Trek II: The Wrath of Khan;1982;Nicholas Meyer;William Shatner,Leonard Nimoy,DeForest Kelley;7.7
+Forbidden Planet;1956;Fred Wilcox;Walter Pidgeon,Anne Francis,Leslie Nielsen;7.7
+Alien;1979;Ridley Scott;Sigourney Weaver;8.5
+Blade Runner;1982;Ridley Scott;Harrison Ford,Rutger Hauer,Sean Young;8.2
+Goodfellas;1990;Martin Scorsese;Robert DeNiro,Joe Pesci,Ray Liotta;8.7
