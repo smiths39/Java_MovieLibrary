@@ -16,5 +16,5 @@ Select an option:
   9. Exit system
   
   
-  <b>Running the program</b>
+  <b>Running the program</b><br>
   java MovieLibraryManager
